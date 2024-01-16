@@ -1,4 +1,4 @@
-dict = {5:"Fizz", 3:"Buzz", 7:'bazz'}
+dict = {5:"Fizz", 3:"Buzz"}
 keys = dict.keys()
 output_list = []
 output_string = ''
